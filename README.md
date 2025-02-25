@@ -57,3 +57,34 @@ This fork is maintained by **dmt** on EpochWoW.
 ## Support
 
 Please contact me in-game ("dmt") or on EpochWow's Discord #addons
+
+## TODO
+
+GBB interface
+- [ ] clean up language/boxes
+
+Filter
+- [ ] migrate "vanilla filter" to "filter"
+- [ ] remove "vanilla filter"
+- [ ] remove heroics, reduce level cap to 60
+- [ ] add custom epoch content (Gillijim's Isle =GIL, Tol Barad=TB, Glittermurk Mines=?) 
+- [ ] autocheck filter cleanup
+
+Search Patterns
+- [ ] fix capitalization/language
+- [ ] format search patterns (clean up)
+- [ ] remove foreign language support (minus localization)
+
+About
+- [x] credits
+
+Misc
+- [ ] fix right-click on minimap icon only working on first click
+- [x] update readme text
+- [ ] update readme screenshots
+
+
+
+
+
+
