@@ -337,7 +337,6 @@ function GBB.OptionsInit()
   CreateEditBoxDungeon( "Search", "", 450, 200 )
   CreateEditBoxDungeon( "Bad", "", 450, 200 )
   CreateEditBoxDungeon( "Suffix", "", 450, 200 )
-  CreateEditBoxDungeon( "Heroic", "", 450, 200 )
 
   GBB.Options.AddSpace()
   for index = 1, GBB.MAXDUNGEON do
