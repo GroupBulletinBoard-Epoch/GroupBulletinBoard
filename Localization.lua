@@ -480,6 +480,7 @@ GBB.locales = {
     ["AboutInfo"] = "GBB provides an overview of the endless requests in the chat channels. It detects all requests to the classic dungeons, sorts them and presents them clearly way. Numerous filtering options reduce the gigantic number to exactly the dungeons that interest you. And if that's not enough, GBB will let you know about any new request via a sound or chat notification. And finally, GBB can post your request repeatedly.",
     ["AboutCredits"] = "Original by GPI / Erytheia-Razorfen.",
     ["AboutCreditsClassic"] = "Classic version by Vyscî-Whitemane.",
+	["AboutPort"] = "Ported to WotLK by fondlez"
   },
 
 }

@@ -102,7 +102,6 @@ do
 end
 
 api.LOCALIZED_CLASS_NAMES_MALE = {
-  [ "DEATHKNIGHT" ] = "Deathknight",
   [ "DRUID" ] = "Druid",
   [ "HUNTER" ] = "Hunter",
   [ "MAGE" ] = "Mage",
@@ -115,7 +114,6 @@ api.LOCALIZED_CLASS_NAMES_MALE = {
 }
 
 api.RAID_CLASS_COLORS_HEX = {
-  [ "DEATHKNIGHT" ] = "ffc41f3b",
   [ "DRUID" ] = "ffff7d0a",
   [ "HUNTER" ] = "ffabd473",
   [ "MAGE" ] = "ff3fc7eb",

@@ -420,8 +420,6 @@ function GBB.GetDungeonNames()
     },
   }
 
-
-
   local dungeonNames = dungeonNamesLocales[ GetLocale() ] or {}
 
   if GroupBulletinBoardDB and GroupBulletinBoardDB.CustomLocalesDungeon and type( GroupBulletinBoardDB.CustomLocalesDungeon ) == "table" then
@@ -432,7 +430,6 @@ function GBB.GetDungeonNames()
       end
     end
   end
-
 
   setmetatable( dungeonNames, { __index = DefaultEnGB } )
 

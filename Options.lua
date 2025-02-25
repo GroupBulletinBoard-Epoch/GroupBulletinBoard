@@ -411,8 +411,7 @@ function GBB.OptionsInit()
   GBB.Options.Indent( 7 )
   local hl = GBB.colors.highlight
   local author = GetAddOnMetadata( TOCNAME, "Author" )
-  local portedBy = "Ported from Classic by Obszczymucha (aka Ohhaimark) for"
-    .. " Stormforge Netherwing, then ported to WotLK by fondlez."
+  local portedBy = "Modified for Project Epoch by dmt"
   GBB.Options.AddText( portedBy, -30, nil, true)
   GBB.Options.Indent( -7 )
 
@@ -426,6 +425,7 @@ function GBB.OptionsInit()
   GBB.Options.Indent( 10 )
   GBB.Options.AddText( GBB.L[ "AboutCredits" ], -20 )
   GBB.Options.AddText( GBB.L[ "AboutCreditsClassic" ], -20 )
+  GBB.Options.AddText( GBB.L[ "AboutPort"], -20 )
   GBB.Options.Indent( -10 )
 
   FixFilters()
