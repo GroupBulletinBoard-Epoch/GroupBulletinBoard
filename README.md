@@ -73,8 +73,7 @@ Filter
 Search Patterns
 - [ ] fix capitalization/language
 - [ ] format search patterns (clean up)
-- [x] remove foreign language support (minus localization)
-- [ ] add clarification for sm, dm, vc ordering (move up?)
+- [ ] remove foreign language support (minus localization)
 
 About
 - [x] credits
