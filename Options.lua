@@ -239,9 +239,9 @@ function GBB.OptionsInit()
   CheckBox( "OnDebug", false )
 
   -- Second Panel for TBC Dungeons
-  GBB.Options.AddPanel( GBB.L[ "TBCPanelFilter" ] )
-  GBB.Options.AddCategory( GBB.L[ "HeaderDungeon" ] )
-  GBB.Options.Indent( 10 )
+--  GBB.Options.AddPanel( GBB.L[ "TBCPanelFilter" ] )
+--  GBB.Options.AddCategory( GBB.L[ "HeaderDungeon" ] )
+--  GBB.Options.Indent( 10 )
 
   TbcChkBox_FilterDungeon = {}
 

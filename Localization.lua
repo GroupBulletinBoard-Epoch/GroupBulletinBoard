@@ -28,8 +28,8 @@ GBB.locales = {
     -- option panel
 
     ["HeaderSettings"] = "Settings",
-    ["PanelFilter"] = "Vanilla Filter",
-    ["TBCPanelFilter"] = "Filter",
+    ["PanelFilter"] = "Filter",
+    ["TBCPanelFilter"] = "TBC Filter",
     ["HeaderTags"] = "Search patterns",
     ["HeaderTagsCustom"] = "Custom search patterns",
     ["PanelTags"] = "Search patterns",
