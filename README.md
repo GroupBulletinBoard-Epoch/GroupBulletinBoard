@@ -4,6 +4,8 @@
 
 This is a fork of the original GroupBulletinBoard addon—originally built as a Classic/TBC solution—now customized for the EpochWoW private server. This version supports Epoch’s custom dungeons.
 
+When you download the .zip, unpack the folder into your /interface/addons folder, and ensure the title is GroupBulletinBoard (not GroupBulletinBoard-Main)
+
 ## Based on
 
 - Port contributions by [fondlez](https://github.com/fondlez/GroupBulletinBoard)
